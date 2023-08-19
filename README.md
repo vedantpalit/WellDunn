@@ -8,9 +8,11 @@ Follow these steps to get started with the project:
 
 1. Clone this repository.
 2. Install the required dependencies using `pip install -r requirements.txt`.
-3. Run `python3 example_welldunn_GL.py` to execute the example using Gamblers Loss on the EXPLAINWD dataset.
-4. Run `python3 example_welldunn_SCE.py` to execute the example using Sigmoid Cross Entropy on the EXPLAINWD dataset.
-5. For more detailed information on the training process, navigate to the `explainWD` and `multiWD` subfolders.
+3. curl -L https://tinyurl.com/4wucdvsw --output ExplainWD_model_RoBERTa_GL_4_Dimension.pt execute this command in the terminal to download the file "ExplainWD_model_RoBERTa_GL_4_Dimension.pt" using curl.
+4. Run `python3 example_welldunn_GL.py` to execute the example using Gamblers Loss on the EXPLAINWD dataset.
+5. curl -L https://tinyurl.com/3c9mjpvp --output ExplainWD_model_RoBERTa_SCE_4_Dimension.pt. execute this command in the terminal to download the file "ExplainWD_model_RoBERTa_SCE_4_Dimension.pt" using curl.
+6. Run `python3 example_welldunn_SCE.py` to execute the example using Sigmoid Cross Entropy on the EXPLAINWD dataset.
+7. For more detailed information on the training process, navigate to the `explainWD` and `multiWD` subfolders.
 
 
 ## Folders and Datasets
