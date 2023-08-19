@@ -43,7 +43,7 @@ device=torch.device('cuda') if torch.cuda.is_available() else torch.device('cpu'
 
 # print("model",model)
 # raise KeyboardInterrupt
-model.load_state_dict(torch.load("ExplainWD_model_RoBERTa_GL_4_Dimension"))
+model.load_state_dict(torch.load("ExplainWD_model_RoBERTa_GL_4_Dimension.pt"))
 tokenizer = AutoTokenizer.from_pretrained("roberta-base")
 # model.eval()
 
