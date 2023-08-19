@@ -1,6 +1,6 @@
-# Wellness Dimension Project
+# Wellness Dimension Benchmarking (__WellDunn__)
 
-Welcome to the **Wellness Dimension** project repository! This repository hosts code and datasets related to the Wellness Dimension project.
+Welcome to the **Wellness Dimension** Benchmarking repository! This repository hosts code and datasets related to the Wellness Dimension Benchmarking.
 
 ## Getting Started
 
@@ -29,11 +29,11 @@ This folder contains code and datasets related to the Explain Wellness Dimension
 
 This folder contains code and datasets related to the Multi Wellness Dimension.
 
-- `GamblersLoss_MultiWD.ipynb`: Jupyter Notebook for the GamblersLoss in Multi Wellness Dimension.
-- `MultiWD_CSE.py`: Python script for implementing Sigmoid Cross Entropy in Multi Wellness Dimension.
-- `MultiWD_CSE.ipynb`: Jupyter Notebook demonstrating Sigmoid Cross Entropy in Multi Wellness Dimension.
-- `gamblersloss_multiwd.py`: Python script for GamblersLoss in Multi Wellness Dimension.
-- `MultiWD.csv`: Dataset associated with the Multi Wellness Dimension.
+- `GamblersLoss_MultiWD.ipynb`: Jupyter Notebook related to the GamblersLoss within the context of Multi-label Wellness Aspects.
+- `MultiWD_CSE.py`: Python script for the application of Sigmoid Cross Entropy in the context of Multi-label Wellness Aspects.
+- `MultiWD_CSE.ipynb`: Jupyter Notebook for interface friendly understanding of `MultiWD_CSE.py`
+- `gamblersloss_multiwd.py`: Python script for GamblersLoss in Multi-label Wellness Dimension.
+- `MultiWD.csv`: Dataset associated with the Multi-label Wellness Dimension.
 
 ## Contributing
 
