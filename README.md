@@ -9,11 +9,9 @@ This folder contains code on WellXplain task with Gambler's loss (GL) and Sigmoi
 This includes code for Large Language Models (LLMs). It has GPT-4 and GPT 3.5 (for both zero-shot and few-shot settings), Llama and MedAlpaca on WellXplain task with SCE.
 4) Data
 This folder includes the datasets: MultiWD and WellXplain
-5) Demo
-This includes code and two saved model than can easily uploaded and runed.
-6) environment.txt
+5) environment.txt
 This file contains the requirements for the environment to run the code.
-7) README
+6) README
 
 To train and test models in cases (1) and (2) and for Llama and MedAlpaca in case (3), you would need to upload the datasets MultiWD and WellXplain into the current path of the project on your device or (for Colab use) upload them into your Google Drive (in this path /content/drive/MyDrive/results). To do so, just go to the Data Loading part or search for pd.read_csv and change it according to your preference.
 
