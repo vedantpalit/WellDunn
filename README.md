@@ -8,7 +8,7 @@ This folder contains code on WellXplain task with Gambler's loss (GL) and Sigmoi
 3) LLMs_WellXplain
 This includes code for Large Language Models (LLMs). It has GPT-4 and GPT 3.5 (for both zero-shot and few-shot settings), Llama and MedAlpaca on WellXplain task with SCE.
 4) Data
-This folder includes the datasets: MultiWD and WellXplain
+This folder includes a few samples from datasets: MultiWD and WellXplain. The original datasets are publicly available as we cited on the paper.
 5) environment.txt
 This file contains the requirements for the environment to run the code.
 6) README
