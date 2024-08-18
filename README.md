@@ -27,8 +27,8 @@ Each code file includes appropriate comments to help understand the code.
 
 Note that the datasets we have used are available at the following links:
 
-MultiWD Dataset at: https://github.com/drmuskangarg/MultiWD
+  - MultiWD Dataset at: https://github.com/drmuskangarg/MultiWD
 
-WellXplain Dataset at: https://github.com/drmuskangarg/WellnessDimensions/
+  - WellXplain Dataset at: https://github.com/drmuskangarg/WellnessDimensions/
 
 
