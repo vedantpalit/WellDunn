@@ -33,7 +33,7 @@ Note that the datasets we have used are available at the following links:
 
 ## Citation
 
-**If you happen to use our repository for your work, you can cite by:**
+**If you find our repository useful for your work, you can cite by:**
 
 ```bibtex
 @article{mohammadi2024welldunn,
