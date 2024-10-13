@@ -31,4 +31,14 @@ Note that the datasets we have used are available at the following links:
 
   - WellXplain Dataset at: https://github.com/drmuskangarg/WellnessDimensions/
 
+## Citation
 
+**If you happen to use our repository for your work, you can cite by:**
+
+```bibtex
+@article{mohammadi2024welldunn,
+  title={WellDunn: On the Robustness and Explainability of Language Models and Large Language Models in Identifying Wellness Dimensions},
+  author={Mohammadi, Seyedali and Raff, Edward and Malekar, Jinendra and Palit, Vedant and Ferraro, Francis and Gaur, Manas},
+  journal={arXiv preprint arXiv:2406.12058},
+  year={2024}
+}
