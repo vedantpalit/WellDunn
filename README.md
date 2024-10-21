@@ -6,8 +6,8 @@ This is the official repository for our work **"WellDunn: On the Robustness and 
 You can read the full paper on [arXiv](https://arxiv.org/abs/2406.12058).
 
 
-<p>
-    <img width="639" alt="Screenshot 2024-10-21 at 11 10 37 PM" src="https://github.com/user-attachments/assets/2185dd03-8fc0-4959-bbba-991a2b0282b0">
+<p align="center">
+    <img width="639" alt="Screenshot 2024-10-21 at 11 10 37 PM" src="https://github.com/user-attachments/assets/2185dd03-8fc0-4959-bbba-991a2b0282b0">
     <em>WellDunn workflow</em>
 </p>
 
