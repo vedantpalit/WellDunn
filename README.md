@@ -8,7 +8,17 @@ You can read the full paper on [arXiv](https://arxiv.org/abs/2406.12058).
 
 <p align="center">
     <img src="https://github.com/user-attachments/assets/2185dd03-8fc0-4959-bbba-991a2b0282b0" style="width: 100%; max-width: 639px;"><br>
-    <strong>WellDunn workflow</strong>
+    <strong>WellDunn workflow</strong><em>MULTIWD task (L) and WELLXPLAIN task (R). The architecture includes shared steps: (1)
+Fine-tuning of general purpose and domain-specific LMs for extracting data representations, followed by (2) feeding them into a
+feed-forward neural network classifier (FFNN). Two loss functions assess LMs’ robustness: Sigmoid Cross-Entropy(SCE) and
+Gambler’s Loss(GL). Singular Value Decomposition (SVD) and Attention-Overlap (AO) Score assess the explainability. In:
+Input, and Out: Output. WellDunn Benchmarking Box: This middle rectangle highlights the components of the benchmark
+system, which includes steps of (1) Fine-tuning and (2) FFNN classifier, as well as Robustness and Explainability components.
+The Left and right dotted rectangles grouped the components for the MULTIWD and WELLXPLAIN tasks, respectively. In the
+case of Task 1, the input (text post) is fed into the MULTIWD task, and the model produces an output (prediction) in terms of
+various WDs like PA, IA, SA, etc. For Task 2, the input (text post) is also fed into the WELLXPLAIN task, which produces output
+(prediction) along with corresponding explanations. Note that in the instruction (training), we provide both input and output, but
+in the evaluation (test), we provide the input.</em>
 </p>
 
 There are five folders in our code:
