@@ -8,7 +8,7 @@ You can read the full paper on [arXiv](https://arxiv.org/abs/2406.12058).
 
 <p align="center">
     <img src="https://github.com/user-attachments/assets/2185dd03-8fc0-4959-bbba-991a2b0282b0" style="width: 100%; max-width: 639px;"><br>
-    <strong>WellDunn workflow</strong><em>MULTIWD task (L) and WELLXPLAIN task (R). The architecture includes shared steps: (1)
+    <strong>WellDunn workflow</strong><em>: MULTIWD task (L) and WELLXPLAIN task (R). The architecture includes shared steps: (1)
 Fine-tuning of general purpose and domain-specific LMs for extracting data representations, followed by (2) feeding them into a
 feed-forward neural network classifier (FFNN). Two loss functions assess LMs’ robustness: Sigmoid Cross-Entropy(SCE) and
 Gambler’s Loss(GL). Singular Value Decomposition (SVD) and Attention-Overlap (AO) Score assess the explainability. In:
