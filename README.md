@@ -3,7 +3,7 @@
 
 This is the official repository for our work **"WellDunn: On the Robustness and Explainability of Language Models and Large Language Models in Identifying Wellness Dimensions"**, accepted in the BlackBox NLP Workshop at EMNLP 2024. 
 
-You can read the full paper on [arXiv](https://arxiv.org/abs/2406.12058).
+You can read the full paper on [arXiv]([https://aclanthology.org/2024.blackboxnlp-1.23/]).
 
 
 <p align="center">
@@ -52,9 +52,26 @@ Note that the datasets we have used are available at the following links:
 **If you find our repository useful for your work, you can cite by:**
 
 ```bibtex
-@article{mohammadi2024welldunn,
-  title={WellDunn: On the Robustness and Explainability of Language Models and Large Language Models in Identifying Wellness Dimensions},
-  author={Mohammadi, Seyedali and Raff, Edward and Malekar, Jinendra and Palit, Vedant and Ferraro, Francis and Gaur, Manas},
-  journal={arXiv preprint arXiv:2406.12058},
-  year={2024}
+@inproceedings{mohammadi-etal-2024-welldunn,
+    title = "{W}ell{D}unn: On the Robustness and Explainability of Language Models and Large Language Models in Identifying Wellness Dimensions",
+    author = "Mohammadi, Seyedali  and
+      Raff, Edward  and
+      Malekar, Jinendra  and
+      Palit, Vedant  and
+      Ferraro, Francis  and
+      Gaur, Manas",
+    editor = "Belinkov, Yonatan  and
+      Kim, Najoung  and
+      Jumelet, Jaap  and
+      Mohebbi, Hosein  and
+      Mueller, Aaron  and
+      Chen, Hanjie",
+    booktitle = "Proceedings of the 7th BlackboxNLP Workshop: Analyzing and Interpreting Neural Networks for NLP",
+    month = nov,
+    year = "2024",
+    address = "Miami, Florida, US",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.blackboxnlp-1.23",
+    doi = "10.18653/v1/2024.blackboxnlp-1.23",
+    pages = "364--388",
 }
