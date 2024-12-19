@@ -3,7 +3,7 @@
 
 This is the official repository for our work **"WellDunn: On the Robustness and Explainability of Language Models and Large Language Models in Identifying Wellness Dimensions"**, accepted in the BlackBox NLP Workshop at EMNLP 2024. 
 
-You can read the full paper at [Link]([https://aclanthology.org/2024.blackboxnlp-1.23/]).
+You can read the full paper at [Link](https://aclanthology.org/2024.blackboxnlp-1.23/).
 
 
 <p align="center">
